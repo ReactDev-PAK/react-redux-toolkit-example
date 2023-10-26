@@ -9,3 +9,7 @@ https://redux-toolkit.js.org/tutorials/quick-start
 ### Command TO install Redux and Redux Toolkit
 
 npm install @reduxjs/toolkit react-redux
+
+### What is the Slice in the Redux Toolkit
+
+Every featuree is a slice
